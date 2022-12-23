@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hello there ! (if you thought about answering "General Kenobi", let's be friends!)<br>Welcome to my github page !<br><br>My name is Valentin Lagues, from France, I have a true passion about new technologies and old ones too (I love retrogaming).<br>After years making uninteresting jobs, I really wanted to find a professional purpose in my life and I chose to become a web-developer.<br>So here I am, right now with all my junior skills and my a bit older brain, ready to find interesting projects to work on !<br><br>⚡ Fun fact : Breaking Bad and Better Call Saul are the best TV shows ever.
+Hello there ! (if you thought about answering "General Kenobi", let's be friends!)<br>Welcome to my github page !<br><br>My name is Valentin Lagues, from France, I have a true passion about new technologies and old ones too (I love retrogaming).<br>After years making uninteresting jobs, I really wanted to find a professional purpose in my life and I chose to become a web-developer.<br>So here I am, right now with all my junior skills and my a bit older brain, ready to find interesting projects to work on !<br><br>⚡ Fun fact : LOST is the best TV show ever.
 
 
 # 💻 Tech Stack:
